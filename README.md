@@ -50,4 +50,4 @@ Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-produc
 
 ### Acknowledgments
 
-This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-tailwind-css-3XGLb37XJt), with some additional features implemented by me.
+This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/ecommerce-product-page-tailwind-css-vuejs-E_EYltYZfi), with some additional features implemented by me.
