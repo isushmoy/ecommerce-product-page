@@ -5,16 +5,16 @@ const pressed = ref(false);
 const currentIndex = ref(0);
 
 const product_src = [
-  "/images/image-product-1.jpg",
-  "/images/image-product-2.jpg",
-  "/images/image-product-3.jpg",
-  "/images/image-product-4.jpg",
+  "./images/image-product-1.jpg",
+  "./images/image-product-2.jpg",
+  "./images/image-product-3.jpg",
+  "./images/image-product-4.jpg",
 ];
 const product_thumb_src = [
-  "/images/image-product-1-thumbnail.jpg",
-  "/images/image-product-2-thumbnail.jpg",
-  "/images/image-product-3-thumbnail.jpg",
-  "/images/image-product-4-thumbnail.jpg",
+  "./images/image-product-1-thumbnail.jpg",
+  "./images/image-product-2-thumbnail.jpg",
+  "./images/image-product-3-thumbnail.jpg",
+  "./images/image-product-4-thumbnail.jpg",
 ];
 
 // default product
@@ -38,7 +38,7 @@ function changePro(index) {
       <button @click="pressed = !pressed">
         <button class="absolute left-3 top-1/2 -translate-y-1/2 rotate-180 lg:hidden opacity-70 hover:opacity-80" @click="changePro((currentIndex - 1) % product_src.length)">
           <div class="bg-white px-3 py-2.5 rounded-full">
-            <img src="/public/images/icon-next.svg" class="w-2.5" alt="icon-next">
+            <img src="/images/icon-next.svg" class="w-2.5" alt="icon-next">
           </div>
         </button>
         <img :src="defPro" class="w-96 rounded-lg lg:rounded-xl lg:mb-6 cursor-auto lg:cursor-pointer" alt="product" />
