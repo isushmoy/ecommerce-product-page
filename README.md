@@ -23,8 +23,8 @@ Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-produc
 
 ### Screenshot
 
-![Desktop Screenshot](./screenshots/s-lg.jpeg)
-![Mobile Screenshot Dark](./screenshots/s-dark.jpeg)
+![Desktop Screenshot](./public/screenshots/s-lg.jpeg)
+![Mobile Screenshot Dark](./public/screenshots/s-dark.jpeg)
 
 ### Technologies Used
 
