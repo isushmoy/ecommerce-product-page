@@ -1,6 +1,6 @@
 # E-commerce Product Page
 
-This is a beautifully crafted E-commerce Product Page with dynamic theming.
+Designed a visually captivating E-commerce Product Page featuring seamless lightbox gallery implementation, advanced CSS techniques, and optimized component communication. Leveraged Vue slots for modular design and applied dynamic theming using a utility-first approach.
 
 Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-product-page/)
 
