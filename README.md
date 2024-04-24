@@ -33,19 +33,19 @@ Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-produc
 
 ### Lessons Learned
 
-1. **Efficient Lightbox Gallery Implementation**
+1. **Efficient Lightbox Gallery Implementation**:
    Mastered the creation of a lightbox gallery with seamless dynamic switching for thumbnails.
 
-2. **Advanced CSS Techniques for Image Centering**
+2. **Advanced CSS Techniques for Image Centering**:
    Utilized top-2/4 transform and translate-y-1/2 to effectively center items inside images.
 
-3. **Component Communication Optimization with defineProps and Emits**
+3. **Component Communication Optimization with defineProps and Emits**:
    Successfully implemented defineProps() and defineEmits() in Vue.js to enhance component communication. First defined custom events using defineEmits(['addCart']). It emits the 'addCart' event with the necessary data inside an event function. Next listened to the custom event on the parent component and handled the emitted data. Finally defined a new const to store the received data and updated the component accordingly.
 
-4. **Leveraging Vue Slots for Modular Design**
+4. **Leveraging Vue Slots for Modular Design**:
    Utilized Vue's slots component to seamlessly integrate parent content into child components.
 
-5. **Dynamic Theming with :root Theme Colors**
+5. **Dynamic Theming with :root Theme Colors**:
    Utilized :root theme colors for the project, enabling the easy creation of dynamic themes.
 
 ### Acknowledgments
