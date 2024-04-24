@@ -1,6 +1,6 @@
 # E-commerce Product Page
 
-This is a visually captivating E-commerce Product Page featuring seamless lightbox gallery implementation, advanced CSS techniques, and optimized component communication. Leveraged Vue slots for modular design and applied dynamic theming using a utility-first approach.
+This app empowers users to effortlessly explore the lightbox gallery and add items to the cart. It leverages a seamless lightbox gallery, advanced Tailwind CSS, and optimized component communication. Additionally, it applies dynamic theming using a utility-first approach.
 
 Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-product-page/)
 
