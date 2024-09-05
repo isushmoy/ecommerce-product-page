@@ -2,7 +2,7 @@
 
 This app empowers users to effortlessly explore the lightbox gallery and add items to the cart. It leverages a seamless lightbox gallery, advanced Tailwind CSS, and optimized component communication. Additionally, it applies dynamic theming using a utility-first approach.
 
-Live Site: [E-commerce Product Page](https://sushcod3.github.io/ecommerce-product-page/)
+Live Site: [E-commerce Product Page](https://isushmoy.github.io/ecommerce-product-page/)
 
 ## Table of contents
 
